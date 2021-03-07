@@ -1,4 +1,4 @@
-# Supporting multiple environments in Docker Compose
+# Supporting multiple environments in Docker Compose (optional content, will not be used in labs)
 
 One of the goals of Docker is the "build once, run anywhere" consistency it provides.  Docker
 images let you create containers that are virtual duplicates of each other, so what happens in dev
