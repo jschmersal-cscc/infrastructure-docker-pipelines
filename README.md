@@ -1,6 +1,6 @@
 # Docker Security and Pipelines Examples and Homework
 
-For Unit 4, there are various examples in the [examples](examples/) directory, and the homework is in the [homework](homework/) directory.
+For Unit 3, there are various examples in the [examples](examples/) directory, and the homework is in the [homework](homework/) directory.
 
 # Homework instructions
 For this homework, you will research and report on some aspect of Docker security.
